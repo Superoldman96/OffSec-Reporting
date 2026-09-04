@@ -33,7 +33,7 @@
 This repository showcases [OffSec](https://www.offsec.com/) report templates built with [SysReptor](https://github.com/Syslifters/sysreptor), a fully customizable pentest reporting platform. 
 
 Supported certifications:  
-**OSCP+**, **OSEP**, **OSWP**, **OSWA**, **OSWE**, **OSED**, **OSMR**, **OSEE**, **OSDA**, **OSIR**, **OSTH**  
+**OSCP+**, **OSEP**, **OSWP**, **OSWA**, **OSWE**, **OSED**, **OSMR**, **OSEE**, **OSAI**, **OSDA**, **OSIR**, **OSTH**  
 
 Focus on hacking, not the formatting. Best of luck with your OffSec journey! ❤️
 
@@ -68,7 +68,7 @@ Missing a template or have questions? Open an [issue or contact us](https://docs
 💲 Free  
 📝 Write in markdown  
 ⚙️ Render to PDF  
-🛡️ OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH  
+🛡️ OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSAI, OSDA, OSIR, OSTH  
 🚀 Fully customizable  
 👌 No local software troubleshooting
 
@@ -109,6 +109,12 @@ Missing a template or have questions? Open an [issue or contact us](https://docs
 <a href="https://docs.sysreptor.com/assets/reports/OffSec-OSEE-Exam-Report.pdf" target="_blank">
 <img width="250" alt="OffSec OSEE Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSEE-Exam-Report-Preview.png" style="border:1px solid;"></a>
 
+### AI Red Teaming
+<p float="left">
+
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSAI-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSAI Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSAI-Exam-Report-Preview.png" style="border:1px solid;"></a>
+
 ### Defensive Security
 <p float="left">
 
@@ -136,6 +142,7 @@ Exam acronym | Exam name                                         | Lab name | Co
 **OSED**     | Offensive Security Exploit Developer              | WUMED    | Windows User Mode Exploit Development      | EXP-301
 **OSMR**     | Offensive Security macOS Researcher               | OSMR     | macOS Control Bypasses                     | EXP-312
 **OSEE**     | Offensive Security Exploitation Expert            | AWE      | Advanced Windows Exploitation              | EXP-401
+**OSAI**    | OffSec AI Red Teamer                              | OSAI     | Advanced AI Red Teaming                    | AI-300
 **OSDA**     | Offensive Security Defense Analyst                | OSDA     | Security Operations and Defensive Analysis | SOC-200
 **OSIR**     | Offensive Security Incident Responder             | OSIR     | Foundational Incident Response             | IR-200
 **OSTH**     | Offensive Security Threat Hunter                  | OSTH     | Foundational Threat Hunting                | TH-200
